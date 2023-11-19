@@ -1,0 +1,39 @@
+/* Footer.css */
+
+.footer-container {
+  max-width: 100%;
+  overflow: hidden;
+ background-image: url("https://digitalassets.tesla.com/tesla-contents/image/upload/h_1800,w_2880,c_fit,f_auto,q_auto:best/Homepage-Model-X-Desktop-LHD");
+ /* Set your desired background color */
+    color: rgb(0, 0, 0); /* Set text color */
+    padding: 20px; 
+    z-index: -1000;/* Add padding for spacing */
+  }
+  
+  .footer-content {
+    margin-bottom: 40px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    cursor: pointer;
+  }
+  
+  .footer-menu {
+ margin-top: 40px;
+    display: flex;
+    margin-left: 400px;
+    cursor: pointer;
+  }
+  
+  .footer-menu a {
+    cursor: pointer;
+    color: rgb(0, 0, 0);
+    text-decoration: none;
+    margin-right: 30px; /* Adjust spacing between menu items */
+  }
+  
+  /* Add hover effect if desired */
+  .footer-menu a:hover {
+    text-decoration: underline;
+  }
+  

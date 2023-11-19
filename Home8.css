@@ -1,0 +1,32 @@
+.tesla1{
+    width: 100%;
+    height: 800px;
+    overflow: hidden;
+}
+
+.texlaimage1{
+    width: 100%;
+    height: 100%;
+}
+
+#gorkha45665jayhoram{
+  margin-top: 710rem;
+    text-align: center;
+    color: rgb(0, 0, 0);
+    font-size: 36px;
+    max-zoom: 800px;
+    
+  }
+  #gorkha13456jayhoram{
+    color: rgb(200, 197, 197);
+    font-size: 20px;
+}
+  .content2455 {
+    position: absolute;
+    top: 13%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    text-align: center;
+    color: rgb(0, 0, 0);
+    z-index: 1;
+  }  

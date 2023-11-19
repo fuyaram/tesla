@@ -1,0 +1,44 @@
+body{
+    margin: 0%;
+  
+}
+/* Header.css */
+#ench{
+    font-size: 15;
+}
+.header {
+    height: 40px;
+    position: fixed;
+    top: 0;
+    width: 100%;
+    background-color: #060a3b; /* Set your desired background color */
+    color: #fff; /* Set your desired text color */
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+    z-index: 1000; /* Set a high z-index to ensure it stays on top */
+  
+    /* Add animation styles */
+    transition: background-color 0.3s ease, height 0.3s ease;
+  }
+  
+  .header-content { 
+    width: 100%;/* Set your desired max width */
+    margin: 0 auto;
+    padding: 20px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+  }
+  
+  .header-title {
+    margin-top: -10px;
+    font-size: 16px;
+    /* Add any other styles for your title */
+  }
+  
+  /* Media query for responsiveness */
+  @media (max-width: 768px) {
+    .header-title {
+      font-size: 20px;
+    }
+  }
+  
