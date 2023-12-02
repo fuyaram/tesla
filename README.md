@@ -1,6 +1,6 @@
 # tesla
 tesla clone using react 
-![tesla01](https://github.com/fuyaram/tesla/assets/143484868/7b
+
 ![tesla 1](https://github.com/fuyaram/tesla/assets/143484868/89478d3c-909c-4603-af33-48b0a7008779)
 c48c60-d0c7-4206-a16c-59a829322542)
 ![tesla2](https://github.com/fuyaram/tesla/assets/143484868/8d5bfb9c-8683-4d14-8a94-146036934bbf)
